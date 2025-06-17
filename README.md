@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/da35c09b-0d48-41a3-b62d-c6e70d9ce12b)
 # 🔗 iDevicePair Linux - Générer un fichier de pairage iOS sous Linux
 
 [![Linux](https://img.shields.io/badge/platform-Linux-green?logo=linux)](https://www.linux.org/)
